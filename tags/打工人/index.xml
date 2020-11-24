@@ -7,10 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>半坡马</copyright>
-    <lastBuildDate>Sun, 09 Feb 2014 00:59:14 +0000</lastBuildDate>
-    
-	<atom:link href="https://boiledbulb.github.io/tags/%E6%89%93%E5%B7%A5%E4%BA%BA/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Sun, 09 Feb 2014 00:59:14 +0000</lastBuildDate><atom:link href="https://boiledbulb.github.io/tags/%E6%89%93%E5%B7%A5%E4%BA%BA/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Your Song</title>
@@ -28,6 +25,8 @@
 这个项目帮了两个月忙就滚去另一个项目了，那是一个特别年轻活泼的组诶还是以后再说吧。</description>
     </item>
     
+    
+    
     <item>
       <title>同事</title>
       <link>https://boiledbulb.github.io/posts/douban/2012/%E5%90%8C%E4%BA%8B/</link>
@@ -39,6 +38,8 @@
 没有铁打的营盘，只有流水的兵。7年多了，新人来旧人走怎么数得过来。有时候好几年没见就以为已经不在公司了，可是哪天说不定就又碰到了，啊原来还在。（比如玻璃门 门里的那位我很对不起的同事）。当然有的在路上碰到了聊了半天才知道，是在园区的另外一家公司了。
 不管是啥样的群体，靠谱的人似乎都只有不多的一些。所以有靠谱的人走了就会叹气，有靠谱的人来了就有期待。不靠谱的就不说了。但是有少数傻逼的话，心里必然是祈祷不要再看到的。于是就有了最不能接受的事情，傻逼走了，过了不久又回来了，想不碰到都没有办法！</description>
     </item>
+    
+    
     
     <item>
       <title>玻璃门 门</title>
@@ -60,6 +61,8 @@
 至今还是觉得很对不起这位同事。</description>
     </item>
     
+    
+    
     <item>
       <title>五季心语</title>
       <link>https://boiledbulb.github.io/posts/douban/2011/%E4%BA%94%E5%AD%A3%E5%BF%83%E8%AF%AD/</link>
@@ -71,6 +74,7 @@
 在这家公司六年多了，迎来一批又一批，送走一拨又一拨，没有营盘，只有兵。老人们越来越少了，我还待在这儿给人一种被豢养的感觉，真怪。
 今儿又有一位同事要走，五季心语，吃起来</description>
     </item>
+    
     
   </channel>
 </rss>
